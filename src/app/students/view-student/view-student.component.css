@@ -1,0 +1,31 @@
+.top-row
+{
+  padding: 1em 0;
+}
+.mat-form-field
+{
+  width:100%;
+}
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust the height as needed */
+}
+
+
+.image-container{
+  width: 200px;
+  height: 200px;
+  background-color: #f7f7f7;
+  border:2px solid #ccc;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+overflow: hidden;
+
+}
+.image-container img{
+  width: 200px;
+}
